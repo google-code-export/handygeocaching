@@ -1,0 +1,29 @@
+#summary Zjednodušený popis nastavení HG v telefonu
+#labels Featured
+
+= Nastavení Handy Geocachingu (dále jen HG) =
+
+== Obecné ==
+Zde se nachází základní nastavení nastavení aplikace.
+
+Přihlašovací údaje na geocaching.com:
+* Jméno - uživatelské jméno na stránkách Geocaching.com (*neplést s Geocaching.cz*) 
+* Heslo - heslo
+
+Nejbližší keše:
+  Nastavení filtru pro hledání keší. Filtr se aplikuje na straně serveru a to tak, že nejprve dojde k hledání keší a až pak se výsledek hledání filtruje. A protože se filtruje jen první nalezená stránka s kešmi (z historických důvodů), tak je možné, že po vyfiltrování to vrátí prázdný seznam.
+
+Počet keší:
+  Počet maximálně vrácených keší po aplikaci filtru. Maximum je 20.
+
+Potvrzovat dialogy:
+  Ano pro potvrzování dialogů např. při přidání keše, uložení změn waypointu, atd.
+  Ne pro automatické zavření dialogu po 800 ms.
+
+Frekvence blikání:
+  S určitou hodnotou lze na některých telefonech zařídit permanentní rozvícení displaye. Ale neptejte se jak.
+
+== GPS ==
+== Field Notes ==
+== Kompass ==
+== Go4Cache.com ==
