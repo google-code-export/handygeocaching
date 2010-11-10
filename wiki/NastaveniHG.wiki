@@ -11,7 +11,7 @@ _Přihlašovací údaje na geocaching.com:_
  * Heslo - heslo
 
 _Nejbližší keše:_
-  Nastavení filtru pro hledání keší. Filtr se aplikuje na straně serveru a to tak, že nejprve dojde k hledání keší a až pak se výsledek hledání filtruje. A protože se filtruje jen první nalezená stránka s kešmi (z historických důvodů), tak je možné, že po vyfiltrování to vrátí prázdný seznam.
+  Nastavení filtru pro hledání keší. Filtr se aplikuje na straně serveru a to tak, že nejprve dojde k hledání keší a až pak se výsledek hledání filtruje. A protože se filtruje jen první nalezená stránka s kešmi (z historických důvodů), tak je možné, že po vyfiltrování to vrátí prázdný seznam. Z toho vyplívá, že při filtrování se neberou v úvahu nálezy přidané do Field notes a nezalogované na GC.com.
 
 _Počet keší:_
   Počet maximálně vrácených keší po aplikaci filtru. Maximum je 20.
